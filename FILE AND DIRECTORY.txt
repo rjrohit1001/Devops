@@ -1,0 +1,57 @@
+
+
+### File and Directory Commands:
+
+1. **ls**: List files and directories in the current directory.
+   - Example: `ls -l` (long format with detailed information)
+
+2. **cd**: Change directory.
+   - Example: `cd Documents` (change to the Documents directory)
+
+3. **pwd**: Print working directory.
+   - Example: `pwd` (displays the current directory)
+
+4. **mkdir**: Make directory.
+   - Example: `mkdir new_directory` (create a new directory named "new_directory")
+
+5. **touch**: Create an empty file.
+   - Example: `touch new_file.txt` (create a new empty file named "new_file.txt")
+
+6. **cp**: Copy files or directories.
+   - Example: `cp file1.txt file2.txt` (copy file1.txt to file2.txt)
+
+7. **mv**: Move or rename files or directories.
+   - Example: `mv file1.txt new_location/` (move file1.txt to the directory "new_location")
+
+8. **rm**: Remove files or directories.
+   - Example: `rm file1.txt` (delete file1.txt)
+   - Example: `rm -r directory1` (delete directory1 and its contents recursively)
+
+### Text Editors:
+
+1. **nano**: A simple command-line text editor.
+   - Example: `nano filename.txt` (opens filename.txt in the nano editor)
+
+2. **vim**: A powerful and configurable text editor.
+   - Example: `vim filename.txt` (opens filename.txt in the vim editor)
+   - Note: Vim has different modes (insert mode, command mode, etc.). Press "i" to enter insert mode, and "Esc" to return to command mode.
+
+
+
+### Viewing Data Inside Files:
+
+1. **cat**: Display the contents of a file.
+   - Example: `cat filename.txt` (displays the contents of filename.txt)
+
+2. **less**: View the contents of a file one screen at a time.
+   - Example: `less filename.txt` (displays the contents of filename.txt; press spacebar to scroll down, "q" to quit)
+
+3. **more**: Similar to less, but less feature-rich.
+   - Example: `more filename.txt` (displays the contents of filename.txt; press spacebar to scroll down, "q" to quit)
+
+4. **head**: Display the first few lines of a file.
+   - Example: `head filename.txt` (displays the first few lines of filename.txt)
+
+5. **tail**: Display the last few lines of a file.
+   - Example: `tail filename.txt` (displays the last few lines of filename.txt)
+

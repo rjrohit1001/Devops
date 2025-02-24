@@ -1,0 +1,15 @@
+* create collaborative directories /practice/Audios, /practice/Videos, /practice/Documents/
+
+* create files in /practice directory as SongX.mp3, FilmX.avi, TextX.txt where X = 1 to 10
+
+* copy those files in there respective directories.
+
+* create directory by name demo in practice directory
+
+* move 5 files from each directory to demo directory
+
+* remove all files from Audios, Videos, & Documents directories without removing directories
+
+* remove Audios, Videos, & Documents Directory
+
+* remove /practice directory

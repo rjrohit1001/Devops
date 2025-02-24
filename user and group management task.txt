@@ -1,0 +1,10 @@
+1.Create User Accounts:
+Create user accounts for three new employees named shubham, sagar, and sanket.
+Set initial passwords for each user account.
+Ensure that each user's home directory is properly configured.
+
+2.Manage User Groups:
+Create two groups: "developers" and "sales".
+Add shubham and sanket to the "developers" group.
+Add sagar to the "sales" group.
+Verify that users are added to the correct groups.
