@@ -91,3 +91,4 @@ Compression is the technique used to reduce the size consumed by a file or a dat
      ![compress-cat](../../images/compress-cat.PNG)
 
 
+![compress-cat](https://github.com/user-attachments/assets/270eed39-3202-4b73-8251-3c4673fd9cf6)
