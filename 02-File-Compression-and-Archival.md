@@ -76,7 +76,8 @@ Compression is the technique used to reduce the size consumed by a file or a dat
     $ bunzip2 test.img
     $ gunzip test1.img
     $ unxz test2.img
-    ```
+    ```![Uploading image.png…]()
+
   
      ![compress-uncompress](../../images/compress-uncompress.PNG)
     
