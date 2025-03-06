@@ -78,8 +78,8 @@ Compression is the technique used to reduce the size consumed by a file or a dat
     $ unxz test2.img
     ```![Uploading image.png…]()
 
-  
-     ![compress-uncompress](../../images/compress-uncompress.PNG)
+  ![compress-uncompress (1)](https://github.com/user-attachments/assets/916202b7-3cc5-4140-acdf-38ffbd4abd08)
+
     
 #### Compressed files need not to be uncompressed everytime
 - Tools such as **`zcat`** , **`bzcat`** and **`xzcat`** allow the compressed files to be read without an uncompress
@@ -88,7 +88,6 @@ Compression is the technique used to reduce the size consumed by a file or a dat
   $ zcat hostfile.txt.gz
   $ zcat hostfile.txt.xz
   ```
-     ![compress-cat](../../images/compress-cat.PNG)
 
 
 ![compress-cat](https://github.com/user-attachments/assets/270eed39-3202-4b73-8251-3c4673fd9cf6)
